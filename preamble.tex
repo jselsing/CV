@@ -51,11 +51,11 @@
 % Make lists without bullets and compact spacing
 \renewenvironment{itemize}{
   \begin{list}{}{
-    \setlength{\leftmargin}{3em}
-    \setlength{\itemsep}{0.25em}
+    \setlength{\leftmargin}{1em}
+    \setlength{\itemsep}{0.em}
     \setlength{\parskip}{0pt}
     \setlength{\parsep}{0.25em}
-    \setlength{\itemindent}{-0.5\leftmargin}
+    \setlength{\itemindent}{-1em}
   }
 }{
   \end{list}
@@ -64,9 +64,9 @@
 % Change section font size and spacing
 \usepackage{titlesec}
 \titleformat{\section}{\normalfont\fontsize{14pt}{0}\bfseries}{\thesection}{}{}
-\titleformat{\subsection}{\normalfont\fontsize{12pt}{0}\bfseries\itshape}{\thesubsection}{}{}
-\titlespacing{\section}{0em}{1.25em}{0.75em}
-\titlespacing{\subsection}{0.5em}{0.5em}{0.5em}
+\titleformat{\subsection}{\normalfont\fontsize{12pt}{0}\bfseries}{\thesubsection}{}{}
+\titlespacing{\section}{0em}{-0.em}{0.25em}
+\titlespacing{\subsection}{0.5em}{0.em}{0.25em}
 
 % literature links (thanks @dfm)
 \newcommand{\doi}[2]{\emph{\href{http://dx.doi.org/#1}{{#2}}}}
@@ -81,3 +81,4 @@
 \newcommand{\apjl}{ApJL}
 \newcommand{\pasp}{PASP}
 \newcommand{\mnras}{MNRAS}
+\newcommand{\mnrasl}{MNRAS Letters}
