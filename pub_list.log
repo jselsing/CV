@@ -1,0 +1,1298 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.9.5)  1 OCT 2018 15:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**pub_list.tex
+(./pub_list.tex
+LaTeX2e <2018-04-01> patch level 5
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./preamble.tex (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperr
+ef.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count90
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count91
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen104
+\Fld@menulength=\count92
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count98
+\Gm@cntv=\count99
+\c@Gm@tempcnt=\count100
+\Gm@bindingoffset=\dimen107
+\Gm@wd@mp=\dimen108
+\Gm@odd@mp=\dimen109
+\Gm@even@mp=\dimen110
+\Gm@layoutwidth=\dimen111
+\Gm@layoutheight=\dimen112
+\Gm@layouthoffset=\dimen113
+\Gm@layoutvoffset=\dimen114
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip44
+\bibsep=\skip45
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count101
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/mdwtools/mdwlist.sty
+Package: mdwlist 1996/05/02 1.1 Various list-related things
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2017/12/24 v3.05
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+)
+\XKV@depth=\count103
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count104
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen115
+)
+\c@padzeroesN=\count105
+\fc@tmpcatcode=\count106
+\@DT@modctr=\count107
+\@ordinalctr=\count108
+\@orgargctr=\count109
+\@strctr=\count110
+\@tmpstrctr=\count111
+\@DT@loopN=\count112
+\@DT@X=\count113
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count114
+\@month=\count115
+\@year=\count116
+\c@HOUR=\count117
+\c@HOURXII=\count118
+\c@MINUTE=\count119
+\c@TOHOUR=\count120
+\c@TOMINUTE=\count121
+\c@SECOND=\count122
+\currenthour=\count123
+\currentminute=\count124
+\currentsecond=\count125
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count126
+\dayofyear=\count127
+\dayofweek=\count128
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks19
+\dt@b=\toks20
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 25.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyheadings.sty
+Package: fancyheadings 2017/06/30 v3.9a Legacy package to call fancyhdr
+
+
+Package fancyheadings Warning: Please stop using fancyheadings!
+(fancyheadings)                Use fancyhdr instead.
+(fancyheadings)                We will call fancyhdr with the very same
+(fancyheadings)                options you passed to fancyheadings.
+(fancyheadings)                
+(fancyheadings)                fancyhdr is 99 percent compatible with
+(fancyheadings)                fancyheadings. The only incompatibility is
+(fancyheadings)                that \headrulewidth and \footrulewidth and
+(fancyheadings)                their \plain... versions are no longer length
+(fancyheadings)                parameters, but normal macros (to be changed
+(fancyheadings)                with \renewcommand rather than \setlength)..
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip46
+\f@nch@O@elh=\skip47
+\f@nch@O@erh=\skip48
+\f@nch@O@olh=\skip49
+\f@nch@O@orh=\skip50
+\f@nch@O@elf=\skip51
+\f@nch@O@erf=\skip52
+\f@nch@O@olf=\skip53
+\f@nch@O@orf=\skip54
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip55
+\aftertitleunit=\skip56
+\ttl@plus=\dimen116
+\ttl@minus=\dimen117
+\ttl@toksa=\toks21
+\titlewidth=\dimen118
+\titlewidthlast=\dimen119
+\titlewidthfirst=\dimen120
+))
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...y topic (\href{\adsurl}{ADS}) (03-07-2018)}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 5.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.5 ...y topic (\href{\adsurl}{ADS}) (03-07-2018)}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.5 ...y topic (\href{\adsurl}{ADS}) (03-07-2018)}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (1.57721pt too wide) in paragraph at lines 5--5
+|\T1/cmr/bx/n/14.4 Publications by topic ([][rgb]0.1,0.25,0.5ADS[]) (03-07-2018
+)| 
+ []
+
+! Undefined control sequence.
+<everypar> ...p -\parindent \begingroup \@svsechd 
+                                                  \unskip {\hspace {\@tempsk...
+l.6     s
+         ubmitted: 25 ---
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.21 ...synthesis in a double neutron-star merger}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.21 ...synthesis in a double neutron-star merger}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.22 	\nature, 551, 67, 2017 (\arxiv{1710.05858}
+                                                )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.22 	\nature, 551, 67, 2017 (\arxiv{1710.05858}
+                                                )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.25 ...ervations of a Binary Neutron Star Merger}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.25 ...ervations of a Binary Neutron Star Merger}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.26 	\apjl, 848, L12, 2017 (\arxiv{1710.05833}
+                                               )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.26 	\apjl, 848, L12, 2017 (\arxiv{1710.05833}
+                                               )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (64.29436pt too wide) in paragraph at lines 24--27
+\T1/cmr/m/it/12 nary Neu-tron Star Merger[]\T1/cmr/m/n/12 , ApJL, 848, L12, 201
+7 ([][rgb]0.1,0.25,0.5arXiv:1710.05833[]) 
+ []
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.37 submitted to \aanda, \arxiv{1806.07393}
+                                            )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.37 submitted to \aanda, \arxiv{1806.07393}
+                                            )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.41 ...r publication in \apjl (\arxiv{1806.00293}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.41 ...r publication in \apjl (\arxiv{1806.00293}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.53 	submitted to \mnras (\arxiv{1805.07318}
+                                             )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.53 	submitted to \mnras (\arxiv{1805.07318}
+                                             )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.56 ...extinction curves of star-forming regions}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.56 ...extinction curves of star-forming regions}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.57 ... publication in \mnras (\arxiv{1805.07016}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.57 ... publication in \mnras (\arxiv{1805.07016}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.61 ... in the natal regions of gamma-ray bursts}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.61 ... in the natal regions of gamma-ray bursts}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.62 ... publication in \mnras (\arxiv{1806.01296}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.62 ... publication in \mnras (\arxiv{1806.01296}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.67 	submitted to \aanda (\arxiv{1802.07727}
+                                             )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.67 	submitted to \aanda (\arxiv{1802.07727}
+                                             )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.72 ...gamma$-ray burst GRB 160804A at z = 0.737}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 72.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 72.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 72.
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.72 ...gamma$-ray burst GRB 160804A at z = 0.737}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.73 	\mnras, 474, 2, 2018, (\arxiv{1711.02706}
+                                               )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.73 	\mnras, 474, 2, 2018, (\arxiv{1711.02706}
+                                               )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.77 ... publication in \aanda (\arxiv{1707.01452}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.77 ... publication in \aanda (\arxiv{1707.01452}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.80 ...g MgII absorbers towards GRBs and quasars}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.80 ...g MgII absorbers towards GRBs and quasars}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.81 	\aanda, 608A, 84C, 2017, (\arxiv{1709.01084}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.81 	\aanda, 608A, 84C, 2017, (\arxiv{1709.01084}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.85 ...dence that steep reddening laws are local}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.85 ...dence that steep reddening laws are local}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.86 ...aanda, 601, A83, 2017, (\arxiv{1703.07109}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.86 ...aanda, 601, A83, 2017, (\arxiv{1703.07109}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (1.89848pt too wide) in paragraph at lines 83--87
+\T1/cmr/m/it/12 laws are lo-cal[]\T1/cmr/m/n/12 , A&A, 601, A83, 2017, ([][rgb]
+0.1,0.25,0.5arXiv:1703.07109[]) 
+ []
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.89 ...y-burst-selected galaxies at 0.1 <z < 3.6}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.89 ...y-burst-selected galaxies at 0.1 <z < 3.6}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.90 	\aanda, 581, A125, 2017, (\arxiv{1505.06743}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.90 	\aanda, 581, A125, 2017, (\arxiv{1505.06743}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (4.16077pt too wide) in paragraph at lines 88--91
+[]\T1/cmr/m/n/12 Krühler et al., []\T1/cmr/m/it/12 [rgb]0.1,0.25,0.5GRB hosts t
+hrough cos-mic time. VLT/X-
+ []
+
+
+Overfull \hbox (5.22267pt too wide) in paragraph at lines 88--91
+\T1/cmr/m/it/12 0.1 <z < 3.6[]\T1/cmr/m/n/12 , A&A, 581, A125, 2017, ([][rgb]0.
+1,0.25,0.5arXiv:1505.06743[]) 
+ []
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.93 ...fterglow extinction curves with X-Shooter}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.93 ...fterglow extinction curves with X-Shooter}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.94 	\aanda, 579, A74, 2017, (\arxiv{1503.03623}
+                                                 )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.94 	\aanda, 579, A74, 2017, (\arxiv{1503.03623}
+                                                 )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.104 	submitted to \aanda, \arxiv{1806.10609}
+                                              )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.104 	submitted to \aanda, \arxiv{1806.10609}
+                                              )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (134.65517pt too wide) in paragraph at lines 102--105
+\T1/cmr/m/it/12 maximum 'plateau' and strong C ii fea-tures\T1/cmr/m/n/12 , sub
+-mit-ted to A&A, [][rgb]0.1,0.25,0.5arXiv:1806.10609[]) 
+ []
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.107 ...lly lensed type Ia SN 2016geu at z=0.409}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.107 ...lly lensed type Ia SN 2016geu at z=0.409}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.108 	\mnras, 473, 3, 2018, (\arxiv{1708.05534}
+                                                )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.108 	\mnras, 473, 3, 2018, (\arxiv{1708.05534}
+                                                )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.111 ...nsients in a Strongly Lensed Host Galaxy}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.111 ...nsients in a Strongly Lensed Host Galaxy}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.112 ...tureast, 2, 324, 2018 (\arxiv{1707.02434}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.112 ...tureast, 2, 324, 2018 (\arxiv{1707.02434}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (9.48708pt too wide) in paragraph at lines 110--113
+[]\T1/cmr/m/n/12 Rodney et al., []\T1/cmr/m/it/12 [rgb]0.1,0.25,0.5Two Pe-cu-li
+ar Fast Tran-sients in a Strongly
+ []
+
+
+Overfull \hbox (100.41048pt too wide) in paragraph at lines 110--113
+\T1/cmr/m/it/12 Lensed Host Galaxy[]\T1/cmr/m/n/12 , \T1/cmr/bx/n/12 Na-ture As
+-tron-omy\T1/cmr/m/n/12 , 2, 324, 2018 ([][rgb]0.1,0.25,0.5arXiv:1707.02434[]) 
+
+ []
+
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.114 \item K
+             elly et al.,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.114 \item K
+             elly et al.,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.115 ...emely magnified by a galaxy-cluster lens}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.115 ...emely magnified by a galaxy-cluster lens}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.116 ...tureast, 2, 334, 2018 (\arxiv{1706.10279}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.116 ...tureast, 2, 334, 2018 (\arxiv{1706.10279}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.119 ...and Blue SN 1987A-like Type II Supernova}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.119 ...and Blue SN 1987A-like Type II Supernova}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.120 	\apj, 831, 205, 2016, (\arxiv{1512.09093}
+                                                )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.120 	\apj, 831, 205, 2016, (\arxiv{1512.09093}
+                                                )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.123 ...ts of the First Einstein Cross Supernova}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.123 ...ts of the First Einstein Cross Supernova}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.124 	\apj, 820 50, 2016, (\arxiv{1512.05734}
+                                              )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.124 	\apj, 820 50, 2016, (\arxiv{1512.05734}
+                                              )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.127 ...n: The Reappearance of Supernova Refsdal}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.127 ...n: The Reappearance of Supernova Refsdal}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.128 	\apjl, 819 L8, 2016, (\arxiv{1512.04654}
+                                               )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.128 	\apjl, 819 L8, 2016, (\arxiv{1512.04654}
+                                               )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (58.23753pt too wide) in paragraph at lines 126--129
+\T1/cmr/m/it/12 ance of Su-per-nova Refs-dal[]\T1/cmr/m/n/12 , ApJL, 819 L8, 20
+16, ([][rgb]0.1,0.25,0.5arXiv:1512.04654[]) 
+ []
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.140 ...ht 1 < z < 2 quasars from UV to infrared}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.140 ...ht 1 < z < 2 quasars from UV to infrared}
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.141 	\aanda, 585, A87, 2016, (\arxiv{1510.08058}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.141 	\aanda, 585, A87, 2016, (\arxiv{1510.08058}
+                                                  )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (97.7683pt too wide) in paragraph at lines 139--142
+\T1/cmr/m/it/12 < 2 quasars from UV to in-frared[]\T1/cmr/m/n/12 , A&A, 585, A8
+7, 2016, ([][rgb]0.1,0.25,0.5arXiv:1510.08058[]) 
+ []
+
+)
+! Emergency stop.
+<*> pub_list.tex
+                
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 6858 strings out of 492642
+ 97746 string characters out of 6129385
+ 225656 words of memory out of 5000000
+ 10685 multiletter control sequences out of 15000+600000
+ 10138 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,12n,64p,1039b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
